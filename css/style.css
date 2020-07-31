@@ -4,7 +4,7 @@
 
 
 main {
- background-image: url("taj.jpg");
+ background-image: url("taj6.jpg");
   height: 90vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -25,7 +25,7 @@ nav .logo{
 }
 
 nav .menu{
-  width:40% ; display:flex; justify-content:space-around;
+  width:40% ; display:flex; justify-content:space-around; 
 }
 
 nav .menu a{
